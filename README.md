@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Athul George 
 - 👀 I’m interested in learning coding 
-- 📫 How to reach me instaid: athul_geoorge24
+- 📫 How to reach me instaid: athul_george24 
 - 😄 Pronouns: he/him
 
 <!---
